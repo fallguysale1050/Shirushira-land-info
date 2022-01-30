@@ -1,0 +1,32 @@
+﻿@charset "UTF-8";
+.main {
+  width: 800px;
+  margin: 0 auto;
+  text-align: left;
+}
+.center {
+  text-align: center;
+}
+
+.bigchar {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+.smallchar {
+  font-size: 12px;
+}
+.return {
+  font-size: 12px;
+  text-align: right;
+}
+.copyright {
+  font-size: 12px;
+  text-align: center;
+}
+p {
+  text-indent: 1em;
+}
+h1 {
+  text-align: center;
+}
