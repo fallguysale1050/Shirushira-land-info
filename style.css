@@ -7,15 +7,6 @@
 .center {
   text-align: center;
 }
-
-.bigchar {
-  font-size: 32px;
-  font-weight: bold;
-  text-align: center;
-}
-.smallchar {
-  font-size: 12px;
-}
 .return {
   font-size: 12px;
   text-align: right;
