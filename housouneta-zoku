@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <title>放送ネタ族の隠れ情報共有場</title>
+    <link rel="stylesheet" href="style.css" title="Default styles">
+  </head>
+  <body>
+    <div class="main">
+      <h1>放送ネタ族の隠れ情報共有場</h1>
+      <p><strong>※このWebサイトは、ある放送ネタ族が便宜のため作成したものなの。内容の正確性については一切保障しないなの。</strong></p>
+      <hr>
+      <h2 id="menu">目次</h2>
+      <ul>
+        <li><a href="#chapter01">このWebサイトについて</a></li>
+        <li><a href="#chapter02">次回開催予定</a></li>
+        <li><a href="#chapter03">参加ルール</a></li>
+        <li><a href="#chapter04">配信者様一覧</a></li>
+        <li><a href="#chapter05">動画投稿ずんだもん一覧</a></li>
+        <li><a href="#chapter09">関連項目</a></li>
+        <li><a href="#chapter10">問い合わせ先</a></li>
+      </ul>
+      <hr>
+      <h2 id="chapter01">このWebサイトについて</h2>
+      <p>シル...おわむランド！？なんだそれは！？　ククク......ククク.........<a href="https://fallguysale1050.github.io/Shirushira-land-info/index.html#chapter01">シルシランドの解説</a>を見ろ！</p>
+      <p>このWebサイトは、おわむランドのずんだもん(参加者・視聴者)のために、いくつかの情報をまとめるサイトなのだ。</p>
+      <div class="return"><a href="#menu">目次に戻る</a></div>
+      <h2 id="chapter02">次回開催予定</h2>
+      <p>おわむランドの次回開催予定は未定なのだ。最新情報はなりすさんのTwitter（<a href="https://twitter.com/rainbow7akane">リンク</a>）などで確認するのだ。</p>
+      <div class="return"><a href="#menu">目次に戻る</a></div>
+      <h2 id="chapter03">参加ルール</h2>
+      <p>おわむランドの参加ルールは<strong>「ほぼシルシランド準拠」</strong>なのだ。シルシランドの参加ルールは以下の動画の通りなのだ。ただし、<strong>服装はピンク色系で統一なのだ！</strong></p>
+      <p><a href="https://www.nicovideo.jp/watch/sm39715667">【FALLGUYS】フォールガイズ　配信参加ルール説明動画【シルシランド】(sm39715667)</a></p>
+      <div class="center"><iframe width="312" height="176" src="https://ext.nicovideo.jp/thumb/sm39715667" scrolling="no" style="border:solid 1px #ccc;" frameborder="0"><a href="https://www.nicovideo.jp/watch/sm39715667">【FALLGUYS】フォールガイズ　配信参加ルール説明動画【シルシランド】</a></iframe></div>
+      <div class="return"><a href="#menu">目次に戻る</a></div>
+      <h2 id="chapter04">配信者様一覧</h2>
+      <p>おわむランドに参加された配信者様の一覧なのだ。左から順に、お名前(敬称略)、FallGuysのユーザ名<!--、ニコニコ動画へのリンク、Twitterアカウント-->、備考となるのだ。</p>
+      <table border="1" cellspacing="0" summary="おわむランドに参加された配信者様の一覧なのだ">
+        <tbody>
+          <tr>
+            <th>お名前</th>
+            <th>FallGuysのユーザ名</th>
+            <th>備考</th>
+          </tr>
+          <tr>
+            <td>なりす</td>
+            <td>rainbow7akane</td>
+            <td>主催・支店長</td>
+          </tr>
+          <tr>
+            <td>かみと</td>
+            <td>kamito_KTM</td>
+            <td></td>
+          </tr> 
+          <tr>
+            <td>マグナム</td>
+            <td>magunamu0606</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Nano</td>
+            <td>Nano_madder</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>kyou</td>
+            <td>二兎きょう</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>朝ご飯</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>でら</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>ルナハート</td>
+            <td>lunaheart01</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>ごまみそずい</td>
+            <td>Gomamisozui</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>戌田ハチ</td>
+            <td>Hachi_inuda</td>
+            <td></td>
+          </tr>          
+          <tr>
+            <td>月鋸</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>じょかあき</td>
+            <td>jokaaki</td>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="return"><a href="#menu">目次に戻る</a></div>
+      <h2 id="chapter05">動画投稿ずんだもん一覧</h2>
+      <p>ずんだもん視点動画を投稿されたずんだもんの一覧なのだ。左から順に、お名前(敬称略)、FallGuysのユーザ名、ニコニコ動画へのリンク、Twitterアカウント、備考となるのだ。</p>
+      <p>※ご本人に許可をいただいていない方もいます。記載を希望しない方はお手数ですが<a href="#chapter10">問い合わせ先</a>までその旨をご連絡ください。</p>
+      <!-- なりすさんはずんだもんと名言していないが、一旦ずんだもんと記載する。 -->
+      <table border="1" cellspacing="0" summary="ずんだもん視点動画を投稿されたずんだもんの一覧なのだ">
+        <tbody>
+          <tr>
+            <th>お名前</th>
+            <th>FallGuysのユーザ名</th>
+            <th>ニコニコ動画へのリンク</th>
+            <th>Twitter</th>
+            <th>備考</th>
+          </tr>
+          <tr>
+            <td>カタタタキ多々鷹</td>
+            <td>尻盛煩悩寺</td>
+            <td><a href="https://www.nicovideo.jp/watch/sm40530979">【生声注意】多々鷹骨折り民用・多々鷹の悲鳴その6(sm40530979)</a></td>
+            <td><a href="https://twitter.com/neznekanakat">neznekanakat</a></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>紅ウサギ</td>
+            <td>紅ウサギ</td>
+            <td><a href="https://www.nicovideo.jp/watch/sm40531252">【Fall Guys】わちゃりてぃを求めるFall Guys EX！【おわむランド】(sm40531252)</a></td>
+            <td><a href="https://twitter.com/bloodrabbits">bloodrabbits</a></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>とざま</td>
+            <td>TOZAMA-SUN</td>
+            <td><a href="https://www.nicovideo.jp/series/318551">【FALL GUYS】あるくずんだもんの報告【シルシランド】(series/318551)</a></td>
+            <td><a href="https://twitter.com/TOZAMA_SUN">TOZAMA_SUN</a></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>まにぃ</td>
+            <td>OnlySilkworm148</td>
+            <td><a href="https://www.nicovideo.jp/series/325674">おわむランド動画(series/325674)</a></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>ソムト</td>
+            <td>ソムト</td>
+            <td><a href="https://www.nicovideo.jp/watch/sm40541086">【FALL GUYS】ふぉーるがいずわかんない#2(sm40541086)</a></td>
+            <td><a href="https://twitter.com/somuto_s">somuto_s</a></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>牛くん</td>
+            <td>いわし優勝させるもん</td>
+            <td><a href="https://www.nicovideo.jp/series/296324">シルシランド支援(series/296324)</a></td>
+            <td><a href="https://twitter.com/tukihatu">tukihatu</a></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>オペレーター「山城」</td>
+            <td>ElectricLemur315</td>
+            <td><a href="https://www.nicovideo.jp/watch/sm40554600">【FALL GUYS】（紲星あかり（蕾）ちゃんが）おわむらんどに参加してみた【ぴんくもん視点】(sm40554600)</a></td>
+            <td><a href="https://twitter.com/shinyamasiro">shinyamasiro</a></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>フラミア</td>
+            <td>園長専属狂回復士フラミア</td>
+            <td><a href="https://www.nicovideo.jp/series/327586">おわむランド(series/327586)</a></td>
+            <td><a href="https://twitter.com/flamiaVJ">flamiaVJ</a></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>こーげん</td>
+            <td>KOGEN_7</td>
+            <td><a href="https://www.nicovideo.jp/watch/sm40572107">【Fall Guys】おわむランドにも遊びに行ってきたのだ(sm40572107)</a></td>
+            <td><a href="https://twitter.com/kogen_713">kogen_713</a></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>まったり旅人</td>
+            <td>SHARPDRAGON229</td>
+            <td><a href="https://www.nicovideo.jp/series/329107">【Fall Guys】おわむランド(series/329107)</a></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>だ院</td>
+            <td>EfficientYak538</td>
+            <td><a href="https://www.nicovideo.jp/series/306824">ずんだもんに忖度の二文字などない(series/306824)</a></td>
+            <td><a href="https://twitter.com/dain_zun">dain_zun</a></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>チャコ</td>
+            <td>チャコ557</td>
+            <td><a href="https://www.nicovideo.jp/watch/sm40651872">Fall Guys おわむランド（体験版） おわむランドずんだもん視点(sm40651872)</a></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>クウェル</td>
+            <td>AMAZING FALL GUY</td>
+            <td><a href="https://www.nicovideo.jp/series/294298">Fallguys(series/294298)</a></td>
+            <td><a href="https://twitter.com/qwerandasdf">qwerandasdf</a></td>
+            <td>アリアルもん</td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="return"><a href="#menu">目次に戻る</a></div>
+      <h2 id="chapter09">関連項目</h2>
+      <ul>
+        <li><a href="https://fallguysale1050.github.io/Shirushira-land-info/">シルシランド ずんだもん交流所</a></li>
+      </ul>
+      <div class="return"><a href="#menu">目次に戻る</a></div>
+      <h2 id="chapter10">問い合わせ先</h2>
+      <p>このWebサイトに関する問い合わせは、ずんだもん1050（<a href="https://twitter.com/fallguysale1050">Twitter</a>）までお願いいたします。</p>
+      <div class="return"><a href="#menu">目次に戻る</a></div>
+      <hr>
+      <p class="copyright">&copy; 2022 ずんだもん1050</p>
+    </div>
+  </body>
+</html>
