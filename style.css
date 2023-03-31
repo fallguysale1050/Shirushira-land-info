@@ -11,6 +11,9 @@
   font-size: 12px;
   text-align: right;
 }
+.right {
+  text-align: right;
+}
 .copyright {
   font-size: 12px;
   text-align: center;
