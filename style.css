@@ -24,3 +24,7 @@ p {
 h1 {
   text-align: center;
 }
+.secretmess a {
+  text-decoration:none;
+  text-decoration-color: black;
+}
